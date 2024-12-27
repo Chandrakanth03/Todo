@@ -8,12 +8,7 @@ A simple, user-friendly, and responsive To-Do application designed to help users
 1. [Problem Statement](#problem-statement)  
 2. [Features](#features)  
 3. [Tech Stack](#tech-stack)  
-4. [Installation](#installation)  
-5. [Usage](#usage)  
-6. [How It Works](#how-it-works)  
-7. [Live Project](#live-project)  
-8. [Contributing](#contributing)  
-9. [License](#license)
+4. [Deployed](#Project-Live-Link)  
 
 ---
 
@@ -43,17 +38,6 @@ Our **To-Do App** resolves these issues by focusing on minimalism, responsivenes
 - **Local Storage**: (Optional) For data persistence.
 
 ---
-
-## **Installation**
-
-### Prerequisites:
-- Node.js installed on your system.
-- Package manager (npm or yarn).
-
-### Steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/todo-app.git
-   cd todo-app
-
 ## Project Live Link:https://todo-kappa-ecru-58.vercel.app
+
+---
